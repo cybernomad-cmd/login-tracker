@@ -1,0 +1,12 @@
+{
+  "name": "login-tracker",
+  "version": "1.0.0",
+  "description": "Login tracker using closures and arrow functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
